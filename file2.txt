@@ -1,2 +1,2 @@
 This is file2.txtO
-
+This line was added in my local git repo
